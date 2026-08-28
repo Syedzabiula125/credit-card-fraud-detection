@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+# 🛡️Credit Card Fraud Detection
 
 An end-to-end **Machine Learning and Deep Learning project** that detects potentially fraudulent credit card transactions using a **Neural Network** and provides an interactive prediction interface using **Streamlit**.
 
